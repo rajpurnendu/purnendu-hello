@@ -1,0 +1,19 @@
+{
+  "name": "hello-purnendu",
+  "version": "1.0.0",
+  "description": "This is for only testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajpurnendu/purnendu-hello.git"
+  },
+  "author": "purnendu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajpurnendu/purnendu-hello/issues"
+  },
+  "homepage": "https://github.com/rajpurnendu/purnendu-hello#readme"
+}
